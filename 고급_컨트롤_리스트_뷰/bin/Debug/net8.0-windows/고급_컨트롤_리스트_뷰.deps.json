@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "고급_컨트롤_리스트_뷰/1.0.0": {
+        "runtime": {
+          "고급_컨트롤_리스트_뷰.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "고급_컨트롤_리스트_뷰/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

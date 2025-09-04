@@ -1,0 +1,16 @@
+C:\coding\c#\Study\기본_컨트롤\bin\Debug\net8.0-windows\기본_컨트롤.exe
+C:\coding\c#\Study\기본_컨트롤\bin\Debug\net8.0-windows\기본_컨트롤.deps.json
+C:\coding\c#\Study\기본_컨트롤\bin\Debug\net8.0-windows\기본_컨트롤.runtimeconfig.json
+C:\coding\c#\Study\기본_컨트롤\bin\Debug\net8.0-windows\기본_컨트롤.dll
+C:\coding\c#\Study\기본_컨트롤\bin\Debug\net8.0-windows\기본_컨트롤.pdb
+C:\coding\c#\Study\기본_컨트롤\obj\Debug\net8.0-windows\기본_컨트롤.Form1.resources
+C:\coding\c#\Study\기본_컨트롤\obj\Debug\net8.0-windows\기본_컨트롤.csproj.GenerateResource.cache
+C:\coding\c#\Study\기본_컨트롤\obj\Debug\net8.0-windows\기본_컨트롤.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\c#\Study\기본_컨트롤\obj\Debug\net8.0-windows\기본_컨트롤.AssemblyInfoInputs.cache
+C:\coding\c#\Study\기본_컨트롤\obj\Debug\net8.0-windows\기본_컨트롤.AssemblyInfo.cs
+C:\coding\c#\Study\기본_컨트롤\obj\Debug\net8.0-windows\기본_컨트롤.csproj.CoreCompileInputs.cache
+C:\coding\c#\Study\기본_컨트롤\obj\Debug\net8.0-windows\기본_컨트롤.dll
+C:\coding\c#\Study\기본_컨트롤\obj\Debug\net8.0-windows\refint\기본_컨트롤.dll
+C:\coding\c#\Study\기본_컨트롤\obj\Debug\net8.0-windows\기본_컨트롤.pdb
+C:\coding\c#\Study\기본_컨트롤\obj\Debug\net8.0-windows\기본_컨트롤.genruntimeconfig.cache
+C:\coding\c#\Study\기본_컨트롤\obj\Debug\net8.0-windows\ref\기본_컨트롤.dll
