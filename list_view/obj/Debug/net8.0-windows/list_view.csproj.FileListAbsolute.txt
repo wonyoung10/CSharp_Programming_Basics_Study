@@ -1,0 +1,16 @@
+C:\coding\c#\Study\list_view\bin\Debug\net8.0-windows\list_view.exe
+C:\coding\c#\Study\list_view\bin\Debug\net8.0-windows\list_view.deps.json
+C:\coding\c#\Study\list_view\bin\Debug\net8.0-windows\list_view.runtimeconfig.json
+C:\coding\c#\Study\list_view\bin\Debug\net8.0-windows\list_view.dll
+C:\coding\c#\Study\list_view\bin\Debug\net8.0-windows\list_view.pdb
+C:\coding\c#\Study\list_view\obj\Debug\net8.0-windows\list_view.list_view.resources
+C:\coding\c#\Study\list_view\obj\Debug\net8.0-windows\list_view.csproj.GenerateResource.cache
+C:\coding\c#\Study\list_view\obj\Debug\net8.0-windows\list_view.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\c#\Study\list_view\obj\Debug\net8.0-windows\list_view.AssemblyInfoInputs.cache
+C:\coding\c#\Study\list_view\obj\Debug\net8.0-windows\list_view.AssemblyInfo.cs
+C:\coding\c#\Study\list_view\obj\Debug\net8.0-windows\list_view.csproj.CoreCompileInputs.cache
+C:\coding\c#\Study\list_view\obj\Debug\net8.0-windows\list_view.dll
+C:\coding\c#\Study\list_view\obj\Debug\net8.0-windows\refint\list_view.dll
+C:\coding\c#\Study\list_view\obj\Debug\net8.0-windows\list_view.pdb
+C:\coding\c#\Study\list_view\obj\Debug\net8.0-windows\list_view.genruntimeconfig.cache
+C:\coding\c#\Study\list_view\obj\Debug\net8.0-windows\ref\list_view.dll
