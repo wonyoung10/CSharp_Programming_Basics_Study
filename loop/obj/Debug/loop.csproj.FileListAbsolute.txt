@@ -1,0 +1,10 @@
+C:\coding\c#\loop\bin\Debug\loop.exe.config
+C:\coding\c#\loop\bin\Debug\loop.exe
+C:\coding\c#\loop\bin\Debug\loop.pdb
+C:\coding\c#\loop\obj\Debug\loop.csproj.AssemblyReference.cache
+C:\coding\c#\loop\obj\Debug\loop.Form1.resources
+C:\coding\c#\loop\obj\Debug\loop.Properties.Resources.resources
+C:\coding\c#\loop\obj\Debug\loop.csproj.GenerateResource.cache
+C:\coding\c#\loop\obj\Debug\loop.csproj.CoreCompileInputs.cache
+C:\coding\c#\loop\obj\Debug\loop.exe
+C:\coding\c#\loop\obj\Debug\loop.pdb
