@@ -1,0 +1,16 @@
+C:\coding\c#\Study\FileEx\bin\Debug\net8.0-windows\FileEx.exe
+C:\coding\c#\Study\FileEx\bin\Debug\net8.0-windows\FileEx.deps.json
+C:\coding\c#\Study\FileEx\bin\Debug\net8.0-windows\FileEx.runtimeconfig.json
+C:\coding\c#\Study\FileEx\bin\Debug\net8.0-windows\FileEx.dll
+C:\coding\c#\Study\FileEx\bin\Debug\net8.0-windows\FileEx.pdb
+C:\coding\c#\Study\FileEx\obj\Debug\net8.0-windows\FileEx.Form1.resources
+C:\coding\c#\Study\FileEx\obj\Debug\net8.0-windows\FileEx.csproj.GenerateResource.cache
+C:\coding\c#\Study\FileEx\obj\Debug\net8.0-windows\FileEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\c#\Study\FileEx\obj\Debug\net8.0-windows\FileEx.AssemblyInfoInputs.cache
+C:\coding\c#\Study\FileEx\obj\Debug\net8.0-windows\FileEx.AssemblyInfo.cs
+C:\coding\c#\Study\FileEx\obj\Debug\net8.0-windows\FileEx.csproj.CoreCompileInputs.cache
+C:\coding\c#\Study\FileEx\obj\Debug\net8.0-windows\FileEx.dll
+C:\coding\c#\Study\FileEx\obj\Debug\net8.0-windows\refint\FileEx.dll
+C:\coding\c#\Study\FileEx\obj\Debug\net8.0-windows\FileEx.pdb
+C:\coding\c#\Study\FileEx\obj\Debug\net8.0-windows\FileEx.genruntimeconfig.cache
+C:\coding\c#\Study\FileEx\obj\Debug\net8.0-windows\ref\FileEx.dll

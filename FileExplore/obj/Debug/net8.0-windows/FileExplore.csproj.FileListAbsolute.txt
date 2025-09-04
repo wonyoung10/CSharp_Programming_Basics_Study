@@ -1,0 +1,16 @@
+C:\coding\c#\Study\FileExplore\bin\Debug\net8.0-windows\FileExplore.exe
+C:\coding\c#\Study\FileExplore\bin\Debug\net8.0-windows\FileExplore.deps.json
+C:\coding\c#\Study\FileExplore\bin\Debug\net8.0-windows\FileExplore.runtimeconfig.json
+C:\coding\c#\Study\FileExplore\bin\Debug\net8.0-windows\FileExplore.dll
+C:\coding\c#\Study\FileExplore\bin\Debug\net8.0-windows\FileExplore.pdb
+C:\coding\c#\Study\FileExplore\obj\Debug\net8.0-windows\FileExplore.Form1.resources
+C:\coding\c#\Study\FileExplore\obj\Debug\net8.0-windows\FileExplore.csproj.GenerateResource.cache
+C:\coding\c#\Study\FileExplore\obj\Debug\net8.0-windows\FileExplore.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\c#\Study\FileExplore\obj\Debug\net8.0-windows\FileExplore.AssemblyInfoInputs.cache
+C:\coding\c#\Study\FileExplore\obj\Debug\net8.0-windows\FileExplore.AssemblyInfo.cs
+C:\coding\c#\Study\FileExplore\obj\Debug\net8.0-windows\FileExplore.csproj.CoreCompileInputs.cache
+C:\coding\c#\Study\FileExplore\obj\Debug\net8.0-windows\FileExplore.dll
+C:\coding\c#\Study\FileExplore\obj\Debug\net8.0-windows\refint\FileExplore.dll
+C:\coding\c#\Study\FileExplore\obj\Debug\net8.0-windows\FileExplore.pdb
+C:\coding\c#\Study\FileExplore\obj\Debug\net8.0-windows\FileExplore.genruntimeconfig.cache
+C:\coding\c#\Study\FileExplore\obj\Debug\net8.0-windows\ref\FileExplore.dll
