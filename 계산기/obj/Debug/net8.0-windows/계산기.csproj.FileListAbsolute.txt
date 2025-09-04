@@ -1,0 +1,16 @@
+C:\coding\c#\Study\계산기\bin\Debug\net8.0-windows\계산기.exe
+C:\coding\c#\Study\계산기\bin\Debug\net8.0-windows\계산기.deps.json
+C:\coding\c#\Study\계산기\bin\Debug\net8.0-windows\계산기.runtimeconfig.json
+C:\coding\c#\Study\계산기\bin\Debug\net8.0-windows\계산기.dll
+C:\coding\c#\Study\계산기\bin\Debug\net8.0-windows\계산기.pdb
+C:\coding\c#\Study\계산기\obj\Debug\net8.0-windows\계산기.Frm_계산기.resources
+C:\coding\c#\Study\계산기\obj\Debug\net8.0-windows\계산기.csproj.GenerateResource.cache
+C:\coding\c#\Study\계산기\obj\Debug\net8.0-windows\계산기.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\c#\Study\계산기\obj\Debug\net8.0-windows\계산기.AssemblyInfoInputs.cache
+C:\coding\c#\Study\계산기\obj\Debug\net8.0-windows\계산기.AssemblyInfo.cs
+C:\coding\c#\Study\계산기\obj\Debug\net8.0-windows\계산기.csproj.CoreCompileInputs.cache
+C:\coding\c#\Study\계산기\obj\Debug\net8.0-windows\계산기.dll
+C:\coding\c#\Study\계산기\obj\Debug\net8.0-windows\refint\계산기.dll
+C:\coding\c#\Study\계산기\obj\Debug\net8.0-windows\계산기.pdb
+C:\coding\c#\Study\계산기\obj\Debug\net8.0-windows\계산기.genruntimeconfig.cache
+C:\coding\c#\Study\계산기\obj\Debug\net8.0-windows\ref\계산기.dll
