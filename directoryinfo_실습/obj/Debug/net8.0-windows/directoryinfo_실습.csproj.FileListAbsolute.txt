@@ -1,0 +1,16 @@
+C:\coding\c#\Study\directoryinfo_실습\bin\Debug\net8.0-windows\directoryinfo_실습.exe
+C:\coding\c#\Study\directoryinfo_실습\bin\Debug\net8.0-windows\directoryinfo_실습.deps.json
+C:\coding\c#\Study\directoryinfo_실습\bin\Debug\net8.0-windows\directoryinfo_실습.runtimeconfig.json
+C:\coding\c#\Study\directoryinfo_실습\bin\Debug\net8.0-windows\directoryinfo_실습.dll
+C:\coding\c#\Study\directoryinfo_실습\bin\Debug\net8.0-windows\directoryinfo_실습.pdb
+C:\coding\c#\Study\directoryinfo_실습\obj\Debug\net8.0-windows\directoryinfo_실습.Form1.resources
+C:\coding\c#\Study\directoryinfo_실습\obj\Debug\net8.0-windows\directoryinfo_실습.csproj.GenerateResource.cache
+C:\coding\c#\Study\directoryinfo_실습\obj\Debug\net8.0-windows\directoryinfo_실습.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\c#\Study\directoryinfo_실습\obj\Debug\net8.0-windows\directoryinfo_실습.AssemblyInfoInputs.cache
+C:\coding\c#\Study\directoryinfo_실습\obj\Debug\net8.0-windows\directoryinfo_실습.AssemblyInfo.cs
+C:\coding\c#\Study\directoryinfo_실습\obj\Debug\net8.0-windows\directoryinfo_실습.csproj.CoreCompileInputs.cache
+C:\coding\c#\Study\directoryinfo_실습\obj\Debug\net8.0-windows\directoryinfo_실습.dll
+C:\coding\c#\Study\directoryinfo_실습\obj\Debug\net8.0-windows\refint\directoryinfo_실습.dll
+C:\coding\c#\Study\directoryinfo_실습\obj\Debug\net8.0-windows\directoryinfo_실습.pdb
+C:\coding\c#\Study\directoryinfo_실습\obj\Debug\net8.0-windows\directoryinfo_실습.genruntimeconfig.cache
+C:\coding\c#\Study\directoryinfo_실습\obj\Debug\net8.0-windows\ref\directoryinfo_실습.dll
