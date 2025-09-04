@@ -1,0 +1,17 @@
+C:\coding\c#\Study\class_copy\bin\Debug\net8.0\class_copy.exe
+C:\coding\c#\Study\class_copy\bin\Debug\net8.0\class_copy.deps.json
+C:\coding\c#\Study\class_copy\bin\Debug\net8.0\class_copy.runtimeconfig.json
+C:\coding\c#\Study\class_copy\bin\Debug\net8.0\class_copy.dll
+C:\coding\c#\Study\class_copy\bin\Debug\net8.0\class_copy.pdb
+C:\coding\c#\Study\class_copy\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\coding\c#\Study\class_copy\obj\Debug\net8.0\class_copy.csproj.AssemblyReference.cache
+C:\coding\c#\Study\class_copy\obj\Debug\net8.0\class_copy.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\c#\Study\class_copy\obj\Debug\net8.0\class_copy.AssemblyInfoInputs.cache
+C:\coding\c#\Study\class_copy\obj\Debug\net8.0\class_copy.AssemblyInfo.cs
+C:\coding\c#\Study\class_copy\obj\Debug\net8.0\class_copy.csproj.CoreCompileInputs.cache
+C:\coding\c#\Study\class_copy\obj\Debug\net8.0\class_copy.csproj.Up2Date
+C:\coding\c#\Study\class_copy\obj\Debug\net8.0\class_copy.dll
+C:\coding\c#\Study\class_copy\obj\Debug\net8.0\refint\class_copy.dll
+C:\coding\c#\Study\class_copy\obj\Debug\net8.0\class_copy.pdb
+C:\coding\c#\Study\class_copy\obj\Debug\net8.0\class_copy.genruntimeconfig.cache
+C:\coding\c#\Study\class_copy\obj\Debug\net8.0\ref\class_copy.dll
