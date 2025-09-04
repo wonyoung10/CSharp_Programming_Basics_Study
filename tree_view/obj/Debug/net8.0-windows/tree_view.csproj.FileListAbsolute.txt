@@ -1,0 +1,16 @@
+C:\coding\c#\Study\tree_view\bin\Debug\net8.0-windows\tree_view.exe
+C:\coding\c#\Study\tree_view\bin\Debug\net8.0-windows\tree_view.deps.json
+C:\coding\c#\Study\tree_view\bin\Debug\net8.0-windows\tree_view.runtimeconfig.json
+C:\coding\c#\Study\tree_view\bin\Debug\net8.0-windows\tree_view.dll
+C:\coding\c#\Study\tree_view\bin\Debug\net8.0-windows\tree_view.pdb
+C:\coding\c#\Study\tree_view\obj\Debug\net8.0-windows\tree_view.Form1.resources
+C:\coding\c#\Study\tree_view\obj\Debug\net8.0-windows\tree_view.csproj.GenerateResource.cache
+C:\coding\c#\Study\tree_view\obj\Debug\net8.0-windows\tree_view.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\c#\Study\tree_view\obj\Debug\net8.0-windows\tree_view.AssemblyInfoInputs.cache
+C:\coding\c#\Study\tree_view\obj\Debug\net8.0-windows\tree_view.AssemblyInfo.cs
+C:\coding\c#\Study\tree_view\obj\Debug\net8.0-windows\tree_view.csproj.CoreCompileInputs.cache
+C:\coding\c#\Study\tree_view\obj\Debug\net8.0-windows\tree_view.dll
+C:\coding\c#\Study\tree_view\obj\Debug\net8.0-windows\refint\tree_view.dll
+C:\coding\c#\Study\tree_view\obj\Debug\net8.0-windows\tree_view.pdb
+C:\coding\c#\Study\tree_view\obj\Debug\net8.0-windows\tree_view.genruntimeconfig.cache
+C:\coding\c#\Study\tree_view\obj\Debug\net8.0-windows\ref\tree_view.dll
