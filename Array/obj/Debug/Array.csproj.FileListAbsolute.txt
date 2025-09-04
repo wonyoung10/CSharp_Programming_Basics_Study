@@ -1,0 +1,10 @@
+C:\coding\c#\Array\bin\Debug\Array.exe.config
+C:\coding\c#\Array\bin\Debug\Array.exe
+C:\coding\c#\Array\bin\Debug\Array.pdb
+C:\coding\c#\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+C:\coding\c#\Array\obj\Debug\Array.Form1.resources
+C:\coding\c#\Array\obj\Debug\Array.Properties.Resources.resources
+C:\coding\c#\Array\obj\Debug\Array.csproj.GenerateResource.cache
+C:\coding\c#\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\coding\c#\Array\obj\Debug\Array.exe
+C:\coding\c#\Array\obj\Debug\Array.pdb

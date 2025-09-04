@@ -1,0 +1,10 @@
+C:\coding\c#\Conditional\bin\Debug\Conditional.exe.config
+C:\coding\c#\Conditional\bin\Debug\Conditional.exe
+C:\coding\c#\Conditional\bin\Debug\Conditional.pdb
+C:\coding\c#\Conditional\obj\Debug\Conditional.csproj.AssemblyReference.cache
+C:\coding\c#\Conditional\obj\Debug\Conditional.Form1.resources
+C:\coding\c#\Conditional\obj\Debug\Conditional.Properties.Resources.resources
+C:\coding\c#\Conditional\obj\Debug\Conditional.csproj.GenerateResource.cache
+C:\coding\c#\Conditional\obj\Debug\Conditional.csproj.CoreCompileInputs.cache
+C:\coding\c#\Conditional\obj\Debug\Conditional.exe
+C:\coding\c#\Conditional\obj\Debug\Conditional.pdb
